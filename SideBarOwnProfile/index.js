@@ -1,0 +1,1 @@
+export { default, StyledBox, ProfileImageWrapper, GreenStatusDot, Name, TopArea, BottomArea, ContactInfo, Info, InfoStrong } from './SideBarOwnProfile';
