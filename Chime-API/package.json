@@ -1,0 +1,30 @@
+{
+  "name": "chimeapi",
+  "version": "1.0.0",
+  "description": "Chime sercver API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r esm server.js"
+  },
+  "keywords": [
+    "Chime"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.726.0",
+    "axios": "^0.20.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0",
+    "uuid-by-string": "^3.0.2"
+  }
+}
