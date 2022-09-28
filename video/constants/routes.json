@@ -1,0 +1,7 @@
+{
+  "HOME": "/",
+  "LOGIN": "/login",
+  "CREATE_OR_JOIN": "/create-or-join",
+  "CHAT": "/chat",
+  "LOUNGE": "/lounge?id="
+}
